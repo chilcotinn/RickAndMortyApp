@@ -17,4 +17,4 @@ val UnknownGround = Color(0xFFEEEEEE)
 val Origin = Color(0xFF525252)
 
 val WatchEpisodes = Color(0xFFFF6B00)
-val WatchEpisodesGround = Color(0x1A6B001A)
+val WatchEpisodesGround = Color(0x1AFF6B00)
