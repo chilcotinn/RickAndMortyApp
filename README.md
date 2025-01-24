@@ -15,7 +15,7 @@
 [Скачать APK](https://drive.google.com/file/d/1xvSTeYvYCOvkcBFX_UzqM-CEYHBZZEEU/view?usp=sharing)
 
 <p align="left">
- <img width="300px" src="https://github.com/chilcotinn/RickAndMortyApp/blob/master/Screenshot_2025_01_24_09_15_44_461_com_chilcotin_rickandmortyapp.jpg" alt="Скриншот приложения"/>
+ <img width="300px" src="https://github.com/chilcotinn/RickAndMortyApp/blob/master/Screenshot_2025_01_24_10_04_46_998_com_chilcotin_rickandmortyapp.jpg" alt="Скриншот приложения"/>
 </p>
 
 
